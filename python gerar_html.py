@@ -10,7 +10,7 @@ excel_files = {
 }
 
 # Nome do arquivo HTML que será gerado
-html_file = "curso_em_video.html"
+html_file = "index.html"
 
 # Começo do HTML
 html_start = """<!DOCTYPE html>
